@@ -1,0 +1,13 @@
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\bin\Debug\netcoreapp3.1\NullableRefsSample.exe
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\bin\Debug\netcoreapp3.1\NullableRefsSample.deps.json
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\bin\Debug\netcoreapp3.1\NullableRefsSample.runtimeconfig.json
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\bin\Debug\netcoreapp3.1\NullableRefsSample.runtimeconfig.dev.json
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\bin\Debug\netcoreapp3.1\NullableRefsSample.dll
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\bin\Debug\netcoreapp3.1\NullableRefsSample.pdb
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\obj\Debug\netcoreapp3.1\NullableRefsSample.csprojAssemblyReference.cache
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\obj\Debug\netcoreapp3.1\NullableRefsSample.csproj.CoreCompileInputs.cache
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\obj\Debug\netcoreapp3.1\NullableRefsSample.AssemblyInfoInputs.cache
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\obj\Debug\netcoreapp3.1\NullableRefsSample.AssemblyInfo.cs
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\obj\Debug\netcoreapp3.1\NullableRefsSample.dll
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\obj\Debug\netcoreapp3.1\NullableRefsSample.pdb
+C:\code\personal\CSharpEight\NullableRefsSample\NullableRefsSample\obj\Debug\netcoreapp3.1\NullableRefsSample.genruntimeconfig.cache

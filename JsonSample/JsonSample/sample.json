@@ -1,0 +1,17 @@
+{
+  "courseName": "Build your own application framework",
+  "language": "C#",
+  "author": {
+    "firstName": "Matt",
+    "lastName": "Honeycutt"
+  },
+  "publishedAt": "2020-03-13T12:30:00.000Z",
+  "publishedYear": 2020,
+  "isActive": true,
+  "isRetired": false,
+  "tags": [
+    "aspnet",
+    "C#",
+    "dotnet"
+  ]
+}

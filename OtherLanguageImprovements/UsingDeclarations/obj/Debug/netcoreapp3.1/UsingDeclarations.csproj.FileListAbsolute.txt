@@ -1,0 +1,9 @@
+C:\code\personal\CSharpEight\OtherLanguageImprovements\UsingDeclarations\bin\Debug\netcoreapp3.1\UsingDeclarations.deps.json
+C:\code\personal\CSharpEight\OtherLanguageImprovements\UsingDeclarations\bin\Debug\netcoreapp3.1\UsingDeclarations.dll
+C:\code\personal\CSharpEight\OtherLanguageImprovements\UsingDeclarations\bin\Debug\netcoreapp3.1\UsingDeclarations.pdb
+C:\code\personal\CSharpEight\OtherLanguageImprovements\UsingDeclarations\obj\Debug\netcoreapp3.1\UsingDeclarations.csprojAssemblyReference.cache
+C:\code\personal\CSharpEight\OtherLanguageImprovements\UsingDeclarations\obj\Debug\netcoreapp3.1\UsingDeclarations.csproj.CoreCompileInputs.cache
+C:\code\personal\CSharpEight\OtherLanguageImprovements\UsingDeclarations\obj\Debug\netcoreapp3.1\UsingDeclarations.AssemblyInfoInputs.cache
+C:\code\personal\CSharpEight\OtherLanguageImprovements\UsingDeclarations\obj\Debug\netcoreapp3.1\UsingDeclarations.AssemblyInfo.cs
+C:\code\personal\CSharpEight\OtherLanguageImprovements\UsingDeclarations\obj\Debug\netcoreapp3.1\UsingDeclarations.dll
+C:\code\personal\CSharpEight\OtherLanguageImprovements\UsingDeclarations\obj\Debug\netcoreapp3.1\UsingDeclarations.pdb

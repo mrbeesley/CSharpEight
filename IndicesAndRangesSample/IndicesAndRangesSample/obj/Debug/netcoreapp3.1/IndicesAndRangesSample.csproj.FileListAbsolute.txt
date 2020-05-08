@@ -1,0 +1,13 @@
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\bin\Debug\netcoreapp3.1\IndicesAndRangesSample.exe
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\bin\Debug\netcoreapp3.1\IndicesAndRangesSample.deps.json
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\bin\Debug\netcoreapp3.1\IndicesAndRangesSample.runtimeconfig.json
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\bin\Debug\netcoreapp3.1\IndicesAndRangesSample.runtimeconfig.dev.json
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\bin\Debug\netcoreapp3.1\IndicesAndRangesSample.dll
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\bin\Debug\netcoreapp3.1\IndicesAndRangesSample.pdb
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\obj\Debug\netcoreapp3.1\IndicesAndRangesSample.csprojAssemblyReference.cache
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\obj\Debug\netcoreapp3.1\IndicesAndRangesSample.csproj.CoreCompileInputs.cache
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\obj\Debug\netcoreapp3.1\IndicesAndRangesSample.AssemblyInfoInputs.cache
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\obj\Debug\netcoreapp3.1\IndicesAndRangesSample.AssemblyInfo.cs
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\obj\Debug\netcoreapp3.1\IndicesAndRangesSample.dll
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\obj\Debug\netcoreapp3.1\IndicesAndRangesSample.pdb
+C:\code\personal\CSharpEight\IndicesAndRangesSample\IndicesAndRangesSample\obj\Debug\netcoreapp3.1\IndicesAndRangesSample.genruntimeconfig.cache

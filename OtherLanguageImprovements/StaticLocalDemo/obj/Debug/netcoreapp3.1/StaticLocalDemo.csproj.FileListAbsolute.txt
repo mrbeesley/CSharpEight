@@ -1,0 +1,8 @@
+C:\code\personal\CSharpEight\OtherLanguageImprovements\StaticLocalDemo\bin\Debug\netcoreapp3.1\StaticLocalDemo.deps.json
+C:\code\personal\CSharpEight\OtherLanguageImprovements\StaticLocalDemo\bin\Debug\netcoreapp3.1\StaticLocalDemo.dll
+C:\code\personal\CSharpEight\OtherLanguageImprovements\StaticLocalDemo\bin\Debug\netcoreapp3.1\StaticLocalDemo.pdb
+C:\code\personal\CSharpEight\OtherLanguageImprovements\StaticLocalDemo\obj\Debug\netcoreapp3.1\StaticLocalDemo.csproj.CoreCompileInputs.cache
+C:\code\personal\CSharpEight\OtherLanguageImprovements\StaticLocalDemo\obj\Debug\netcoreapp3.1\StaticLocalDemo.AssemblyInfoInputs.cache
+C:\code\personal\CSharpEight\OtherLanguageImprovements\StaticLocalDemo\obj\Debug\netcoreapp3.1\StaticLocalDemo.AssemblyInfo.cs
+C:\code\personal\CSharpEight\OtherLanguageImprovements\StaticLocalDemo\obj\Debug\netcoreapp3.1\StaticLocalDemo.dll
+C:\code\personal\CSharpEight\OtherLanguageImprovements\StaticLocalDemo\obj\Debug\netcoreapp3.1\StaticLocalDemo.pdb

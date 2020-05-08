@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OtherLanguageImprovements/1.0.0": {
+        "dependencies": {
+          "AsyncStreams": "1.0.0",
+          "DefaultInterfaceMembers": "1.0.0",
+          "StaticLocalDemo": "1.0.0",
+          "UsingDeclarations": "1.0.0"
+        },
+        "runtime": {
+          "OtherLanguageImprovements.dll": {}
+        }
+      },
+      "AsyncStreams/1.0.0": {
+        "runtime": {
+          "AsyncStreams.dll": {}
+        }
+      },
+      "DefaultInterfaceMembers/1.0.0": {
+        "runtime": {
+          "DefaultInterfaceMembers.dll": {}
+        }
+      },
+      "StaticLocalDemo/1.0.0": {
+        "runtime": {
+          "StaticLocalDemo.dll": {}
+        }
+      },
+      "UsingDeclarations/1.0.0": {
+        "runtime": {
+          "UsingDeclarations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OtherLanguageImprovements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsyncStreams/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DefaultInterfaceMembers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StaticLocalDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UsingDeclarations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

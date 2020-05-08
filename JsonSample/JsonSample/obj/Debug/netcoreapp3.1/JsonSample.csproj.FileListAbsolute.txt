@@ -1,0 +1,14 @@
+C:\code\personal\CSharpEight\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\sample.json
+C:\code\personal\CSharpEight\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.exe
+C:\code\personal\CSharpEight\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.deps.json
+C:\code\personal\CSharpEight\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.runtimeconfig.json
+C:\code\personal\CSharpEight\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.runtimeconfig.dev.json
+C:\code\personal\CSharpEight\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.dll
+C:\code\personal\CSharpEight\JsonSample\JsonSample\bin\Debug\netcoreapp3.1\JsonSample.pdb
+C:\code\personal\CSharpEight\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.csprojAssemblyReference.cache
+C:\code\personal\CSharpEight\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.csproj.CoreCompileInputs.cache
+C:\code\personal\CSharpEight\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.AssemblyInfoInputs.cache
+C:\code\personal\CSharpEight\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.AssemblyInfo.cs
+C:\code\personal\CSharpEight\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.dll
+C:\code\personal\CSharpEight\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.pdb
+C:\code\personal\CSharpEight\JsonSample\JsonSample\obj\Debug\netcoreapp3.1\JsonSample.genruntimeconfig.cache

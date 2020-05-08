@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\OtherLanguageImprovements\\OtherLanguageImprovements.csproj": {}
+  },
+  "projects": {
+    "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\AsyncStreams\\AsyncStreams.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\AsyncStreams\\AsyncStreams.csproj",
+        "projectName": "AsyncStreams",
+        "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\AsyncStreams\\AsyncStreams.csproj",
+        "packagesPath": "C:\\Users\\mrbee\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\AsyncStreams\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrbee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\DefaultInterfaceMembers\\DefaultInterfaceMembers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\DefaultInterfaceMembers\\DefaultInterfaceMembers.csproj",
+        "projectName": "DefaultInterfaceMembers",
+        "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\DefaultInterfaceMembers\\DefaultInterfaceMembers.csproj",
+        "packagesPath": "C:\\Users\\mrbee\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\DefaultInterfaceMembers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrbee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\OtherLanguageImprovements\\OtherLanguageImprovements.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\OtherLanguageImprovements\\OtherLanguageImprovements.csproj",
+        "projectName": "OtherLanguageImprovements",
+        "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\OtherLanguageImprovements\\OtherLanguageImprovements.csproj",
+        "packagesPath": "C:\\Users\\mrbee\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\OtherLanguageImprovements\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrbee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\AsyncStreams\\AsyncStreams.csproj": {
+                "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\AsyncStreams\\AsyncStreams.csproj"
+              },
+              "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\DefaultInterfaceMembers\\DefaultInterfaceMembers.csproj": {
+                "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\DefaultInterfaceMembers\\DefaultInterfaceMembers.csproj"
+              },
+              "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\StaticLocalDemo\\StaticLocalDemo.csproj": {
+                "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\StaticLocalDemo\\StaticLocalDemo.csproj"
+              },
+              "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\UsingDeclarations\\UsingDeclarations.csproj": {
+                "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\UsingDeclarations\\UsingDeclarations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\StaticLocalDemo\\StaticLocalDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\StaticLocalDemo\\StaticLocalDemo.csproj",
+        "projectName": "StaticLocalDemo",
+        "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\StaticLocalDemo\\StaticLocalDemo.csproj",
+        "packagesPath": "C:\\Users\\mrbee\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\StaticLocalDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrbee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\UsingDeclarations\\UsingDeclarations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\UsingDeclarations\\UsingDeclarations.csproj",
+        "projectName": "UsingDeclarations",
+        "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\UsingDeclarations\\UsingDeclarations.csproj",
+        "packagesPath": "C:\\Users\\mrbee\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\UsingDeclarations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrbee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

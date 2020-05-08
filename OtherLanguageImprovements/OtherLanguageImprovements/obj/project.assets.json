@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AsyncStreams/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AsyncStreams.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AsyncStreams.dll": {}
+        }
+      },
+      "DefaultInterfaceMembers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DefaultInterfaceMembers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DefaultInterfaceMembers.dll": {}
+        }
+      },
+      "StaticLocalDemo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/StaticLocalDemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StaticLocalDemo.dll": {}
+        }
+      },
+      "UsingDeclarations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/UsingDeclarations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UsingDeclarations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsyncStreams/1.0.0": {
+      "type": "project",
+      "path": "../AsyncStreams/AsyncStreams.csproj",
+      "msbuildProject": "../AsyncStreams/AsyncStreams.csproj"
+    },
+    "DefaultInterfaceMembers/1.0.0": {
+      "type": "project",
+      "path": "../DefaultInterfaceMembers/DefaultInterfaceMembers.csproj",
+      "msbuildProject": "../DefaultInterfaceMembers/DefaultInterfaceMembers.csproj"
+    },
+    "StaticLocalDemo/1.0.0": {
+      "type": "project",
+      "path": "../StaticLocalDemo/StaticLocalDemo.csproj",
+      "msbuildProject": "../StaticLocalDemo/StaticLocalDemo.csproj"
+    },
+    "UsingDeclarations/1.0.0": {
+      "type": "project",
+      "path": "../UsingDeclarations/UsingDeclarations.csproj",
+      "msbuildProject": "../UsingDeclarations/UsingDeclarations.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "AsyncStreams >= 1.0.0",
+      "DefaultInterfaceMembers >= 1.0.0",
+      "StaticLocalDemo >= 1.0.0",
+      "UsingDeclarations >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mrbee\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\OtherLanguageImprovements\\OtherLanguageImprovements.csproj",
+      "projectName": "OtherLanguageImprovements",
+      "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\OtherLanguageImprovements\\OtherLanguageImprovements.csproj",
+      "packagesPath": "C:\\Users\\mrbee\\.nuget\\packages\\",
+      "outputPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\OtherLanguageImprovements\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mrbee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\AsyncStreams\\AsyncStreams.csproj": {
+              "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\AsyncStreams\\AsyncStreams.csproj"
+            },
+            "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\DefaultInterfaceMembers\\DefaultInterfaceMembers.csproj": {
+              "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\DefaultInterfaceMembers\\DefaultInterfaceMembers.csproj"
+            },
+            "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\StaticLocalDemo\\StaticLocalDemo.csproj": {
+              "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\StaticLocalDemo\\StaticLocalDemo.csproj"
+            },
+            "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\UsingDeclarations\\UsingDeclarations.csproj": {
+              "projectPath": "C:\\code\\personal\\CSharpEight\\OtherLanguageImprovements\\UsingDeclarations\\UsingDeclarations.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

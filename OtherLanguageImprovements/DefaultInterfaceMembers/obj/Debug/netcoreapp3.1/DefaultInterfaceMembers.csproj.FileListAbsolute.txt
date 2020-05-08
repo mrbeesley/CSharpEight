@@ -1,0 +1,9 @@
+C:\code\personal\CSharpEight\OtherLanguageImprovements\DefaultInterfaceMembers\bin\Debug\netcoreapp3.1\DefaultInterfaceMembers.deps.json
+C:\code\personal\CSharpEight\OtherLanguageImprovements\DefaultInterfaceMembers\bin\Debug\netcoreapp3.1\DefaultInterfaceMembers.dll
+C:\code\personal\CSharpEight\OtherLanguageImprovements\DefaultInterfaceMembers\bin\Debug\netcoreapp3.1\DefaultInterfaceMembers.pdb
+C:\code\personal\CSharpEight\OtherLanguageImprovements\DefaultInterfaceMembers\obj\Debug\netcoreapp3.1\DefaultInterfaceMembers.csprojAssemblyReference.cache
+C:\code\personal\CSharpEight\OtherLanguageImprovements\DefaultInterfaceMembers\obj\Debug\netcoreapp3.1\DefaultInterfaceMembers.csproj.CoreCompileInputs.cache
+C:\code\personal\CSharpEight\OtherLanguageImprovements\DefaultInterfaceMembers\obj\Debug\netcoreapp3.1\DefaultInterfaceMembers.AssemblyInfoInputs.cache
+C:\code\personal\CSharpEight\OtherLanguageImprovements\DefaultInterfaceMembers\obj\Debug\netcoreapp3.1\DefaultInterfaceMembers.AssemblyInfo.cs
+C:\code\personal\CSharpEight\OtherLanguageImprovements\DefaultInterfaceMembers\obj\Debug\netcoreapp3.1\DefaultInterfaceMembers.dll
+C:\code\personal\CSharpEight\OtherLanguageImprovements\DefaultInterfaceMembers\obj\Debug\netcoreapp3.1\DefaultInterfaceMembers.pdb

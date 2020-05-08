@@ -1,0 +1,9 @@
+C:\code\personal\CSharpEight\OtherLanguageImprovements\AsyncStreams\bin\Debug\netcoreapp3.1\AsyncStreams.deps.json
+C:\code\personal\CSharpEight\OtherLanguageImprovements\AsyncStreams\bin\Debug\netcoreapp3.1\AsyncStreams.dll
+C:\code\personal\CSharpEight\OtherLanguageImprovements\AsyncStreams\bin\Debug\netcoreapp3.1\AsyncStreams.pdb
+C:\code\personal\CSharpEight\OtherLanguageImprovements\AsyncStreams\obj\Debug\netcoreapp3.1\AsyncStreams.csprojAssemblyReference.cache
+C:\code\personal\CSharpEight\OtherLanguageImprovements\AsyncStreams\obj\Debug\netcoreapp3.1\AsyncStreams.csproj.CoreCompileInputs.cache
+C:\code\personal\CSharpEight\OtherLanguageImprovements\AsyncStreams\obj\Debug\netcoreapp3.1\AsyncStreams.AssemblyInfoInputs.cache
+C:\code\personal\CSharpEight\OtherLanguageImprovements\AsyncStreams\obj\Debug\netcoreapp3.1\AsyncStreams.AssemblyInfo.cs
+C:\code\personal\CSharpEight\OtherLanguageImprovements\AsyncStreams\obj\Debug\netcoreapp3.1\AsyncStreams.dll
+C:\code\personal\CSharpEight\OtherLanguageImprovements\AsyncStreams\obj\Debug\netcoreapp3.1\AsyncStreams.pdb
